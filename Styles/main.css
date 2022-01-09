@@ -1,9 +1,9 @@
 header{
-    background-color: lightslategrey;
+    background-color: #1F618D;
     border-radius: 10px; 
     max-width: 800px;
     height: 200px;
-    
+    color: #FFFFFF;
    
 }
 h1{
@@ -23,9 +23,10 @@ img{
 padding-left: 20%;
 }
 footer{
-    background-color: lightslategrey;
+    background-color: #1F618D;
     border-radius: 10px;
     text-align: center;
     padding: 5px;
     max-width: 790px;
+    color: #FFFFFF;
 }
