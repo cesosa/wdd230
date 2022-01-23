@@ -1,32 +1,42 @@
 header{
     background-color: #1F618D;
-    border-radius: 10px; 
+    
     max-width: 800px;
-    height: 200px;
+
     color: #FFFFFF;
+  
    
 }
 h1{
-    text-align: right;
+    text-align: center;
     
 }
 h2{
     text-align: center;
 }
 h3{
+    font-family: 'Ubuntu Condensed', sans-serif;
     text-align: left;  
     text-indent: 40px;
 }
 img{
- float: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
  border-radius: 10px;
-padding-left: 20%;
 }
 footer{
     background-color: #1F618D;
-    border-radius: 10px;
+    
     text-align: center;
     padding: 5px;
     max-width: 790px;
-    color: #FFFFFF;
+    color: #FFFFFF;    
+}
+.typo-list:first-child{
+    font-family: 'Ubuntu Condensed';
+}
+.typo-list:last-child{
+    font-family: sans-serif;
 }

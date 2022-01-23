@@ -1,0 +1,42 @@
+header{
+    background-color: #1F618D;
+    
+    max-width: 800px;
+
+    color: #FFFFFF;
+  
+   
+}
+h1{
+    text-align: center;
+    
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-family: 'Ubuntu Condensed', sans-serif;
+    text-align: left;  
+    text-indent: 40px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+ border-radius: 10px;
+}
+footer{
+    background-color: #1F618D;
+    
+    text-align: center;
+    padding: 5px;
+    max-width: 790px;
+    color: #FFFFFF;    
+}
+.typo-list:first-child{
+    font-family: 'Ubuntu Condensed';
+}
+.typo-list:last-child{
+    font-family: sans-serif;
+}
